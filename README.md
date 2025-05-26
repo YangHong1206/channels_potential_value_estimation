@@ -1,0 +1,2 @@
+# channels_potential_value_estimation
+naive bayesian model
