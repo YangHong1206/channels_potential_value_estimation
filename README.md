@@ -140,8 +140,6 @@ estimate the potential growth of new channels.
 ## 📬Contact (联系方式)
 
 For questions or feedback, reach out via:
-- **📺GitHub**: [YangHong1206](https://github.com/YangHong1206)
-
 如有问题或反馈，请通过以下方式联系：
 - **💼GitHub**: [YangHong1206](https://github.com/YangHong1206)
 
