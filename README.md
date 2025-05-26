@@ -95,7 +95,7 @@ estimate the potential growth of new channels.
    ```
 
 3. **📂Prepare Data (准备数据)**:
-   - Place the required file (`渠道管理列表.xlsx`) in the working directory.
+   - Place the required file (channels.csv) in the working directory.
    - Set your working directory in the R script:
      ```r
      setwd("path/to/your/directory")
