@@ -146,6 +146,13 @@ For questions or feedback, reach out via:
 ---
 
 ## Screenshots (项目截图)
+
+![image](https://github.com/user-attachments/assets/908e178c-cd86-4dbe-9e64-cf3d1dc4d2d7)
+
+
+![image](https://github.com/user-attachments/assets/7f8a4558-9551-463f-8887-5fbc53086fb1)
+
+
 🔥![image](https://github.com/user-attachments/assets/19b21b6c-60d2-4c0e-ab85-251bd5060718)
 
 ![image](https://github.com/user-attachments/assets/b22b29e9-dd17-4895-bc66-122ac06539c2)
